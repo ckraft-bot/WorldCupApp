@@ -1,0 +1,7 @@
+# requirements
+streamlit==1.16.0
+pandas==1.5.1
+numpy==1.23.4
+matplotlib==3.6.0
+matplotlib-inline==0.1.6
+plotly==5.11.0
